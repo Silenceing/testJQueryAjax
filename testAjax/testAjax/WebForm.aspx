@@ -14,22 +14,15 @@
     }
     /// <summary> 
     /// 带参数 
-    /// </summary> 
-    /// <param name="value1"></param> 
-    /// <param name="value2"></param> 
-    /// <param name="value3"></param> 
-    /// <param name="value4"></param> 
-    /// <returns></returns> 
+ 
     [System.Web.Services.WebMethod]
     public static string GetWish(string value1, string value2, string value3, int value4)
     {
         return string.Format("祝您在{3}年里 {0}、{1}、{2}", value1, value2, value3, value4);
     }
-    /// <summary> 
+
     /// 返回集合 
-    /// </summary> 
-    /// <param name="i"></param> 
-    /// <returns></returns> 
+ 
     [System.Web.Services.WebMethod]
     public static List<int> GetArray(int i)
     {
