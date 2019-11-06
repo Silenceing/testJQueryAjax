@@ -1,0 +1,6 @@
+F:\workspace\11.06\testAjax\testAjax\bin\testAjax.dll.config
+F:\workspace\11.06\testAjax\testAjax\bin\testAjax.dll
+F:\workspace\11.06\testAjax\testAjax\bin\testAjax.pdb
+F:\workspace\11.06\testAjax\testAjax\obj\Debug\testAjax.csprojResolveAssemblyReference.cache
+F:\workspace\11.06\testAjax\testAjax\obj\Debug\testAjax.dll
+F:\workspace\11.06\testAjax\testAjax\obj\Debug\testAjax.pdb
